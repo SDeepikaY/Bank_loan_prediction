@@ -8,7 +8,7 @@
   Different data types in dataset are object and float
   
   ### Machine learning techniques used 
-  Decision Tree
+  Decision Tree,
   Gaussian Naive Bayes
   
   
